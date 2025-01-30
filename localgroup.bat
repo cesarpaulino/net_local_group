@@ -22,6 +22,7 @@ Title Comando localGroup
 set "usuario=NombreUsuario"
 
 :: Reemplaza "NombreGrupo" con el nombre del grupo al que deseas agregar al usuario
+:: Grupo: Usuarios,
 set "grupo=Administradores"
 
 echo Agregando el usuario "%usuario%" al grupo "%grupo%"...
